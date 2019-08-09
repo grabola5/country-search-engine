@@ -35,10 +35,9 @@ h2 {
 }
 
 ul {
-  display: flex;
-  justify-content: center;
-  list-style-type: none;
-  min-height: 200px;
+  text-align: center;
+  list-style-type: disc;
+  height: 40vh;
   margin-top: 0;
   padding: 0;
   background-color: #88d8b0;
